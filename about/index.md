@@ -7,4 +7,4 @@ eleventyNavigation:
   order: 3
 ---
 
-I am a person that writes stuff.
+My name is Abbey Lyle and I am a senior at Penn State. I am currently in IST 402 and am learning about web componenets and 11ty this semester. Look through some of my posts to get started!
